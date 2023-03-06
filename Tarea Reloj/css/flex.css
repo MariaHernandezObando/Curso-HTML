@@ -1,0 +1,27 @@
+.clock {
+  width: auto;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+  align-items: center;
+  font-family: "Giblant";
+  background-color: rgb(223, 175, 238);
+}
+.time {
+    font-size: 100px;
+    font-weight: bold;
+    color: black;
+  }
+  
+  .date-time {
+    font-size: 50px;
+    font-family: cursive;
+    color: black;
+  }
+  
+  
+
+
