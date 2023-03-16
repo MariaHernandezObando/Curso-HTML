@@ -1,0 +1,23 @@
+.box {
+  display: flex;
+  border: 5px dotted rgb(156, 96, 168);
+  font-size: large;
+  font-weight: bolder;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #00ffff;
+}
+
+.Quote {
+  flex: 1;
+}
+
+.box2{
+  flex: 1;
+}
+
+.Quote2 {
+  width: max-content;
+  border: 5px rgb(143, 168, 96);
+}
+
+/*# sourceMappingURL=base.css.map */
